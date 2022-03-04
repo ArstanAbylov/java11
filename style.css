@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.dark-theme {
+    color: antiquewhite;
+    background-color: black;
+}
